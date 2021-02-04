@@ -1,0 +1,18 @@
+.label{
+    margin: 70px 30px;
+    font-size: xx-large;
+    padding: 0;
+}
+.label h3 span{
+    color:yellow;
+}
+.label a{
+    color:white;
+    text-decoration: none;
+}
+.label p{
+    color: white;
+}
+.label p span{
+    color:blue;
+}

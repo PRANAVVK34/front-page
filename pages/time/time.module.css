@@ -1,0 +1,17 @@
+.time{
+ margin-top: 20% ;
+ margin-left: 30px;
+}
+.time h1{
+    color: white;
+    font-size: 3em;
+    margin: 0;
+}
+.time time{
+    color: yellow;
+    font-size: xx-large;
+}
+.time span{
+    color: white;
+    font-size: medium;
+}
